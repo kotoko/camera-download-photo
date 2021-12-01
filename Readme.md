@@ -22,3 +22,10 @@ This project is published "as is" in the spirit of "proof of concept". No suppor
 ## License
 
 See file `License`.
+
+## Repository
+
+Source code is available at:
+
+* [https://github.com/kotoko/camera-download-photo](https://github.com/kotoko/camera-download-photo)
+* [https://gitlab.com/kotoko_/camera-download-photo](https://gitlab.com/kotoko_/camera-download-photo)
